@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DistributedTesting.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="javaCommand" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">java -jar</Value>
+    </Setting>
+    <Setting Name="jarFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">selenium-server-standalone-2.35.0.jar</Value>
+    </Setting>
+    <Setting Name="jarFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Selenium\</Value>
+    </Setting>
+    <Setting Name="defaultNode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-role node</Value>
+    </Setting>
+    <Setting Name="hubAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:4444/grid/register/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
